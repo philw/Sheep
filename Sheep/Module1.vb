@@ -9,10 +9,10 @@
         UseThread()
 
         Do
-            Console.WriteLine("Enter first number: ")
+            Console.Write("Enter first number: ")
             N = Console.ReadLine
 
-            Console.WriteLine("Enter second number: ")
+            Console.Write("Enter second number: ")
             M = Console.ReadLine
 
             Console.WriteLine("{0} x {1} = {2}", N, M, N * M)
