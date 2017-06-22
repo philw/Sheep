@@ -30,7 +30,7 @@
             y = Console.CursorTop
             Console.CursorLeft = 50
             Console.CursorTop = 0
-            Console.WriteLine("Sheep " & i & " Baah Blaah Whatever")
+            Console.WriteLine("Sheep " & i & " Baah Baah")
             Console.CursorLeft = x
             Console.CursorTop = y
             i = i + 1
